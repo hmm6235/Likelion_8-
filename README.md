@@ -8,8 +8,8 @@ Git을 사용하기 위한 원격 저장소(repository)의 사용방법에 관�
   * public / private 의 권한을 고려하여 선택
 
 2. github에 올릴 소스코드 파일의 경로를 git bash를 이용하여 경로이동
-* cd(change directory)명령어를 이용하여 경로변경
-* pwd(print Working Directory)명령어를 이용하여 현재 어떤 디렉토리경로에 있는지 절대경로로 표시하여 현재 경로 파악
+  * cd(change directory)명령어를 이용하여 경로변경
+  * pwd(print Working Directory)명령어를 이용하여 현재 어떤 디렉토리경로에 있는지 절대경로로 표시하여 현재 경로 파악
 
 3. git bash console창에서 repository 연결
 
