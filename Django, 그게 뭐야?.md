@@ -16,4 +16,15 @@
 >> Model - 데이터베이스에 저장되는 데이터
 
 
+-------------------Hello, Django
+## 가상환경이란?
+>> 자신이 원하는 Python 환경 구축을 위해 필요한 모듈만 담아 놓는 바구니
 
+## Django 명령어 모음
+* [Django 패키지 설치] : pip install django
+
+* [Django 프로젝트 생성] : django - admin startproject <프로젝트명> .
+
+* [Django App 생성] : python manage.py startapp <App 이름>
+
+* [Django 로컬 서버 시작 ] : python manage.py runserver
